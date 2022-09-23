@@ -1,0 +1,4 @@
+﻿  Calculator.cpp
+C:\Users\mytia\source\repos\Calculator\Calculator.cpp(8,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mytia\source\repos\Calculator\Calculator.cpp(13,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Calculator.vcxproj -> C:\Users\mytia\source\repos\Calculator\Debug\Calculator.exe

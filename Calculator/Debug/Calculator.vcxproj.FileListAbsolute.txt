@@ -1,0 +1,2 @@
+C:\Users\mytia\source\repos\Calculator\Debug\Calculator.exe
+C:\Users\mytia\source\repos\Calculator\Debug\Calculator.pdb
