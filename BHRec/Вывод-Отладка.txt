@@ -1,0 +1,15 @@
+﻿"BHRec.exe" (Win32). Загружено "C:\Users\mytia\source\repos\BHRec\x64\Debug\BHRec.exe". Символы загружены.
+"BHRec.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"BHRec.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"BHRec.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"BHRec.exe" (Win32). Загружено "C:\Windows\System32\msvcp140d.dll". 
+"BHRec.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"BHRec.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140_1d.dll". 
+"BHRec.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+Поток 0x50e4 завершился с кодом 0 (0x0).
+"BHRec.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". 
+"BHRec.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". 
+"BHRec.exe" (Win32). Загружено "C:\Windows\System32\rpcrt4.dll". 
+Поток 0x53e4 завершился с кодом 0 (0x0).
+Поток 0x4574 завершился с кодом 0 (0x0).
+Программа "[10072] BHRec.exe" завершилась с кодом 0 (0x0).
